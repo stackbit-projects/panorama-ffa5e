@@ -3,9 +3,7 @@ title: MarciaCris
 sections:
   - type: hero_section
     title: Oiii! Sou a Marcia. Vou ajudar você a ficar linda.
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Tenho as melhores soluções para você ficar linda e sensual.
     actions:
       - label: Entre em contato
         url: /contact
