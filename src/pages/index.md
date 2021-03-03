@@ -3,7 +3,9 @@ title: MarciaCris
 sections:
   - type: hero_section
     title: Oiii! Sou a Marcia. Vou ajudar você a ficar linda.
-    subtitle: Tenho as melhores soluções para você ficar linda e sensual.
+    subtitle: >-
+      Tenho as melhores soluções para você ficar linda e sensual. Lingeries e
+      estética corporal para você arrasar.
     actions:
       - label: Entre em contato
         url: /contact
