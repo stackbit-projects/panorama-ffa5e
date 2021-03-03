@@ -27,7 +27,7 @@ sections:
     subtitle: Who I work with
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/logo-psil.png
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
